@@ -17,12 +17,12 @@
 
 <h3 align="left">My Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Balaji-ai&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Balajiai&theme=tokyonight)](https://git.io/streak-stats)
 
-![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balaji-ai&show_icons=true&theme=tokyonight&count_private=true)
+![Balaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=balajiai&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-ai&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-](https://github.com/balaji-ai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajiai&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
+](https://github.com/balajiai/github-readme-stats)
 
 
 
