@@ -6,5 +6,5 @@
 
 - 🎉I'm looking to colaborate on Research Projects
 
-- 📬 Reach Me at **balajivd01@gmail.com** 
+- 📬 Reach out to me at **balajivd01@gmail.com** 
 
