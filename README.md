@@ -4,7 +4,7 @@
 
  - 👀 I’m interested in Artificial Intelligence
 
-- 🎉I'm looking to colaborate on Open Source Projects
+- 🎉I'm looking to colaborate on Research Projects
 
 - 📬 Reach Me at **balajivd01@gmail.com** 
 
